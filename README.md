@@ -173,6 +173,7 @@
                 <!-- Botão GitHub (Mude "seu-usuario" pelo seu @ real) -->
                 <a href="https://github.com" target="_blank" rel="noopener noreferrer" class="btn btn-github">
                     <i class="fa-brands fa-github"></i> Visitar meu GitHub
+                    
                 </a>
             </div>
         </footer>
